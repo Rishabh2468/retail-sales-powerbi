@@ -1,4 +1,4 @@
-## Retail Sales Performance Dashboard — Power BI
+## Retail Sales Performance Dashboard - Power BI
 Made a sales analysis dashboard for a company's data in Power BI
 
 
